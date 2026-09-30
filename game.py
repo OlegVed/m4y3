@@ -69,3 +69,4 @@ for i in range(5):
     except sr.RequestError as e:
         print(f"❌ Ошибка сервиса: {e}")
 else: print("Ты дошёл-(шла) до финиша")
+print("Тестируем ветви")
